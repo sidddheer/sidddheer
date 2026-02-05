@@ -29,7 +29,7 @@ I don't just train models; I build production-grade systems that solve real busi
 * **Tech Stack:** `PyTorch` `XGBoost` `1D-CNN` `SHAP` `Fairness Audit`
 * **Impact:** Achieved **0.72 AUC-PR** (18% lift over baselines) and ensured <3% demographic bias.
 
-### 2. [End-to-End Customer Churn Prediction (MLOps)](https://github.com/sidddheer/Risk-Assessment-Models-for-Silent-Myocardial-Infarction-in-Diabetic-Patients.git)
+### 2. [End-to-End Customer Churn Prediction (MLOps)]()
 > *From Notebook to Production API.*
 
 * **The Problem:** Businesses lose revenue due to reactive retention strategies.
@@ -45,7 +45,7 @@ I don't just train models; I build production-grade systems that solve real busi
 * **Tech Stack:** `PostgreSQL` `Advanced SQL` `Data Modeling` `Python`
 * **Impact:** Reduced query latency on large datasets and visualized defensive turnover correlations.
 
-### 4. [Deepfake Forensics Engine](Link-To-Repo-Here)
+### 4. [Deepfake Forensics Engine](https://github.com/sidddheer/Visual-Deepfake-Detection-Using-CNNs.git)
 > *Combatting misinformation with Hybrid Computer Vision models.*
 
 * **The Problem:** Deepfake videos are becoming indistinguishable from reality.
@@ -53,7 +53,7 @@ I don't just train models; I build production-grade systems that solve real busi
 * **Tech Stack:** `TensorFlow` `ResNet50` `LSTM` `OpenCV`
 * **Impact:** Achieved **92% Accuracy** on Face-Forensics++ dataset; accelerated training by 30% via automated preprocessing.
 
-### 5. [Vision-Based License Plate Recognition](Link-To-Repo-Here)
+### 5. [Vision-Based License Plate Recognition](https://github.com/sidddheer/Vision-Based-License-Plate-Recognition-ALPR-.git)
 > *Real-time Object Detection with YOLOv11.*
 
 * **The Problem:** Traditional OCR fails under varied lighting and angles.
@@ -69,7 +69,7 @@ I don't just train models; I build production-grade systems that solve real busi
 * **Tech Stack:** `PyTorch` `GANs` `Flutter` `Firebase`
 * **Impact:** Processed 1GB+ of training data with **93% Accuracy**; reduced retrieval time by 25% for mobile users.
 
-### 7. [Spatial-Temporal Crime Prediction](Link-To-Repo-Here)
+### 7. [Spatial-Temporal Crime Prediction](https://github.com/sidddheer/Crime-Prediction-Sentiment-Historical-Hybrid-Model.git)
 > *Predictive Policing Analytics for Buffalo, NY.*
 
 * **The Problem:** Law enforcement needs data-driven insights to allocate resources effectively.

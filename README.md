@@ -21,7 +21,7 @@ I don't just train models; I build production-grade systems that solve real busi
 
 ## 🏆 Featured Projects
 
-### 1. [Multimodal SMI Risk Assessment (Deep Learning)]((https://github.com/sidddheer/Risk-Assessment-Models-for-Silent-Myocardial-Infarction-in-Diabetic-Patients.git))
+### 1. [Multimodal SMI Risk Assessment (Deep Learning)](https://github.com/sidddheer/Risk-Assessment-Models-for-Silent-Myocardial-Infarction-in-Diabetic-Patients.git)
 > *Solving the "Silent Killer" problem in diabetic patients using Fusion Architectures.*
 
 * **The Problem:** Standard risk scores fail to detect "Silent" Myocardial Infarctions (SMI).

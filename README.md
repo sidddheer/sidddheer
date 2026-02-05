@@ -29,7 +29,7 @@ I don't just train models; I build production-grade systems that solve real busi
 * **Tech Stack:** `PyTorch` `XGBoost` `1D-CNN` `SHAP` `Fairness Audit`
 * **Impact:** Achieved **0.72 AUC-PR** (18% lift over baselines) and ensured <3% demographic bias.
 
-### 2. [End-to-End Customer Churn Prediction (MLOps)]()
+### 2. [End-to-End Customer Churn Prediction (MLOps)](https://github.com/sidddheer/Cust_churn.git)
 > *From Notebook to Production API.*
 
 * **The Problem:** Businesses lose revenue due to reactive retention strategies.

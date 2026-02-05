@@ -37,7 +37,7 @@ I don't just train models; I build production-grade systems that solve real busi
 * **Tech Stack:** `Docker` `DVC` `FastAPI` `AWS` `XGBoost`
 * **Impact:** **95% Accuracy** in identifying at-risk customers; enabled CI/CD for model retraining.
 
-### 3. [PuckStats: NHL Game Analytics Engine](Link-To-Repo-Here)
+### 3. [PuckStats: NHL Game Analytics Engine](https://github.com/sidddheer/PuckStats-High-Performance-NHL-Analytics-Engine.git)
 > *Advanced SQL and Schema Design for Sports Analytics.*
 
 * **The Problem:** Public sports data is messy and unoptimized for granular analysis.
